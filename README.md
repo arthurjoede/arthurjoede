@@ -1,4 +1,4 @@
 <p align="center"> Estou cursando Técnico em Informática para Internet e sou apaixonado por tecnologia! <br> <br> </p>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/86/68/d9/8668d99b7fd5e3855ef8881b7000b98f.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJoZHNqNmh4bjk0NWd6MzZwM2RiNzB6anh4dTk3dHNoczJ6cWo1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KpGpKnCi8ThSw/giphy.gif" width="300" />
 </p>
