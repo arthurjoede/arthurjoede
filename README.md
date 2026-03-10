@@ -17,9 +17,10 @@
 
 🌐 Desenvolvimento Web Full Stack  
 📱 Suporte e Infraestrutura
-🗄️ Banco de Dados e Modelagem  
+🗄️ Banco de Dados e Modelagem 
 🤖 Cibersegurança
 🤖 Análise de Dados e Big Data
+
 
 ---
 
