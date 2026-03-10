@@ -15,10 +15,10 @@
 
 # 🧠 Áreas de Interesse
 
-🌐 Desenvolvimento Web Full Stack  
-📱 Suporte e Infraestrutura
-🗄️ Banco de Dados e Modelagem 
-🤖 Cibersegurança
+🌐 Desenvolvimento Web Full Stack  <br>
+📱 Suporte e Infraestrutura<br>
+🗄️ Banco de Dados e Modelagem <br>
+🤖 Cibersegurança<br>
 🤖 Análise de Dados e Big Data
 
 
