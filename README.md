@@ -1,14 +1,13 @@
-# 👋 Olá, eu sou o Arthur Correa! 🏀
+# 👋 Olá, eu sou o Arthur Joede! 🏀
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções eficientes.  
+💻 Estudante apaixonado por tecnologia e por criar soluções eficientes.  
 🚀 Sempre aprendendo novas tecnologias e explorando diferentes formas de desenvolver aplicações modernas.
 
 ---
 
 # 🚀 Sobre Mim
 
-- 🎓 Estudante de **Informática para Internet**
-- 💻 Desenvolvedor **Full Stack**
+- 🎓 Estudante de **Sistemas de Informações**
 - 📚 Sempre estudando novas tecnologias
 - 🎯 Buscando oportunidades na área de **Tecnologia**
 
@@ -17,10 +16,10 @@
 # 🧠 Áreas de Interesse
 
 🌐 Desenvolvimento Web Full Stack  
-📱 Desenvolvimento Mobile  
+📱 Suporte e Infraestrutura
 🗄️ Banco de Dados e Modelagem  
-🎨 UI/UX Design  
-🤖 Automação e Scripts  
+🤖 Cibersegurança
+🤖 Análise de Dados e Big Data
 
 ---
 
@@ -51,19 +50,12 @@
 
 ---
 
-# 📊 Estatísticas do GitHub
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=kkbarbosa&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkbarbosa&layout=compact&theme=tokyonight)
-
----
 
 # 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kkbarbosa)
-[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](SEU_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-joede-9576b52a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurjoede)
 
 ---
 
