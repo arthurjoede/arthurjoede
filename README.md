@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Arthur Joede! 🏀
+# 👋 Olá, eu sou o Arthur Joede! 
 
 💻 Estudante apaixonado por tecnologia e por criar soluções eficientes.  
 🚀 Sempre aprendendo novas tecnologias e explorando diferentes formas de desenvolver aplicações modernas.
